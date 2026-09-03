@@ -8,7 +8,9 @@ Use this repository to:
 - **Propose improvements** to the Monocle project ecosystem.
 - **Publish meeting notes** and official community summaries.
 - **Log incident reports** to maintain public accountability.
-- **Access core documentation**, including policies, guidelines, and legal terms.
+- **Access core documentation** including policies, guidelines, and legal terms.
+- **Discuss changes to network fees** community input for proposed changes to fee structures.
+- **Publish transparency reports** network activity, audits, and operational data.
 
 ## 🔄 Meta Issues vs. Discussions
 
@@ -31,8 +33,6 @@ Use this repository to:
 
 Do not use this repository for topics that belong in our specialized spaces:
 
-- [Fees Repository](https://github.com/https://github.com/monocle-network/fees) — Trading and platform fee structures.
-- [Transparency Repository](https://github.com/monocle-network/transparency) — Financial logs, audits, and operational data.
 - [Brand Repository](https://github.com/monocle-network/brand) — Visual assets, logos, and design guidelines.
 - [Haveno Bounties](https://github.com/monocle-network/haveno-bounties) — Development rewards and active bounties.
 
@@ -54,4 +54,4 @@ The goal of this repository is to:
 
 ## 🤝 How this Role repository works
 
-We welcome open collaboration. Anyone can open a new issue or comment on active threads. If you have an organizational issue, proposal, or meta-concern, please open a new issue
+Monocle welcomes open collaboration. Anyone can open a new issue or comment on active threads. If you have an organizational issue, proposal, or meta-concern, please open a new issue
