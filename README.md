@@ -11,6 +11,7 @@ Use this repository to:
 - **Access core documentation** including policies, guidelines, and legal terms.
 - **Discuss changes to network fees** community input for proposed changes to fee structures.
 - **Publish transparency reports** network activity, audits, and operational data.
+- **List role vacancies** and any other contributions required.
 
 ## 🔄 Meta Issues vs. Discussions
 
