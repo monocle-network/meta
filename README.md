@@ -34,7 +34,7 @@ Use this repository to:
 
 Do not use this repository for topics that belong in our specialized spaces:
 
-- [Brand Repository](https://github.com/monocle-network/brand) — Visual assets, logos, and design guidelines.
+- [Design Repository](https://github.com/monocle-network/design) — Visual assets, logos, and design guidelines.
 - [Haveno Bounties](https://github.com/monocle-network/haveno-bounties) — Development rewards and active bounties.
 
 
