@@ -11,11 +11,14 @@ This repository is used to store general Monocle project matters. It is used for
 Use this repository to:
 - **Propose improvements** to the Monocle project ecosystem.
 - **Publish meeting notes** and official community summaries.
-- **Log incident reports** to maintain public accountability.
+- **Log exploits** to maintain public accountability.
+- **Record responsible disclosures** provide information on any disclosures that lead to a successful bounty being awarded.
+- **Report on network fees collected** to maintain transparency.
 - **Access core documentation** including policies, guidelines, and legal terms.
 - **Discuss changes to network fees** community input for proposed changes to fee structures.
 - **Publish transparency reports** network activity, audits, and operational data.
 - **List role vacancies** and any other contributions required.
+- **List transfers from Monocle addresses** to include; Network Fee, Peer Security Reserve, Haveno Network Development Grant and Open Source Sustainability Grant addressess.
 
 ## 🔄 Meta Issues vs. Discussions
 
