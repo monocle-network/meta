@@ -14,7 +14,7 @@ Use this repository to:
 - **Log exploits** to maintain public accountability.
 - **Record responsible disclosures** provide information on any disclosures that lead to a successful bounty being awarded.
 - **Report on network fees collected** to maintain transparency.
-- **Access core documentation** including policies, guidelines, and legal terms.
+- **Access core documentation** including policies, and guidelines.
 - **Discuss changes to network fees** community input for proposed changes to fee structures.
 - **Publish transparency reports** network activity, audits, and operational data.
 - **List role vacancies** and any other contributions required.
